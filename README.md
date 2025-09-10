@@ -7,6 +7,11 @@
 개발 기간: 2023.12.26~24.07.30(7개월)<br>
 팀 프로젝트 인원 : 김우현(기획), 김준엽(기획), 박경현(기획), 정지원(개발), 한만진(개발), 강리한(개발)<br>
 
+# :star:개발 기여도 목록<br>
+정지원(35%): 1(수정), 2, 3층 보스 행동 패턴 구현, 카메라 연출 구현<br>
+한만진(35%): 캐릭터 조작 구현, 게임 환경 설정 구현, UI 상호작용<br>
+강리한(30%): 스테이지 상호작용 코드 구현, 스테이지 제작<br>
+
 # :star:게임 이미지
 <p align="center">
   <img src="https://raw.githubusercontent.com/NickJeongWib/Repo_Image/refs/heads/main/SOT/SotMainImg.png" width="45%" />
