@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/NickJeongWib/Repo_Image/refs/heads/main/SOT/Trello.png"  width="500"/><br>
   
 # :star:빌드 파일 Exe
-🔥3D 프로젝트이다 보니 용량이 큽니다.
+🔥3D 프로젝트이다 보니 용량이 큽니다.<br>
 <a href="https://drive.google.com/file/d/1VKVxA4U2Cs_xwrHhfQldKNFBtEdNHe3R/view?usp=drive_link">쉐도우 오브 타워 exe 빌드 파일 링크<br>
 
 # :star:기술 소개서
