@@ -18,7 +18,7 @@
 </p>
 
 # :star:일정 관리 TODO 리스트
-일정 관리 주간 목표는 Trello를 사용해서 관리했습니다.<br>
+일정 관리 구현 목표는 Trello를 사용해서 관리했습니다.<br>
 <img src="https://raw.githubusercontent.com/NickJeongWib/Repo_Image/refs/heads/main/SOT/Trello.png"  width="500"/><br>
   
 # :star:빌드 파일 Exe
