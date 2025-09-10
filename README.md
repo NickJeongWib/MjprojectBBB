@@ -31,4 +31,4 @@
 <a href="https://drive.google.com/file/d/1VKVxA4U2Cs_xwrHhfQldKNFBtEdNHe3R/view?usp=drive_link">쉐도우 오브 타워 exe 빌드 파일 링크<br>
 
 # :star:플레이 영상
-<a href="https://www.youtube.com/watch?v=pAdqJfbeLJE">게임 플레이 영상<br>
+<a href="https://www.youtube.com/watch?v=pAdqJfbeLJE">쉐도우 오브 타워 게임 플레이 영상<br>
