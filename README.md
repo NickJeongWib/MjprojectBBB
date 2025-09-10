@@ -1,6 +1,6 @@
 # :star:쉐도우 오브 타워(Shawdow of Tower)
 <img src="https://raw.githubusercontent.com/NickJeongWib/Repo_Image/refs/heads/main/SOT/SotMainImg.png"  width="600"/><br>
-장르: 3D 액션 로그라이크 RPG<br>
+장르: 3D 액션 로그라이크<br>
 그래픽: 3D<br>
 플랫폼: PC<br>
 유니티 버전: 2022.03.17f1<br>
